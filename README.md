@@ -4,7 +4,7 @@
 ## Практическая работа 1
 
 ### Основное задание
-![image](https://user-images.githubusercontent.com/98609700/224121853-874a4e38-5eab-4c35-98b7-8f524c800680.png)
+![image](https://user-images.githubusercontent.com/98609700/224122057-fb3611a4-a9de-4f63-89c5-018656812274.png)
 
 Вопросы: 
 1.	Транспортное средство колесное (1)/ гусеничное (2)?
