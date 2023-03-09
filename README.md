@@ -28,7 +28,7 @@
 6.	Танк
 7.	Экскаватор
 
-### Дополнительное задание **(spacecrafts.clp)**
+### Дополнительное задание *(spacecrafts.clp)*
 ```mermaid
 graph
 PassengersOrFactoryAndMilitary[Вопрос 1] -- Факт 2 --> ConstructOrMineOrFight[Вопрос 3]
