@@ -3,7 +3,7 @@
 
 ## Практическая работа 1
 
-### Основное задание
+### Основное задание **(car_type.clp)**
 ![image](https://user-images.githubusercontent.com/98609700/224122057-fb3611a4-a9de-4f63-89c5-018656812274.png)
 
 Вопросы: 
@@ -28,7 +28,7 @@
 6.	Танк
 7.	Экскаватор
 
-### Дополнительное задание
+### Дополнительное задание **(spacecrafts.clp)**
 ```mermaid
 graph
 PassengersOrFactoryAndMilitary[Вопрос 1] -- Факт 2 --> ConstructOrMineOrFight[Вопрос 3]
